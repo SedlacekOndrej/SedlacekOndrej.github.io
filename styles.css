@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@100&display=swap');
+
+.navBar {
+    background-color: #333333;
+    padding-top: 10px;
+    line-height: 20px;
+}
+
+a {
+    text-decoration: underline;
+    color: #ff0099;
+    text-transform: uppercase;
+    padding: 15px;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+p {
+    font-size: 15px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.redir {
+    float: right;
+    padding-right: 10%;
+    margin: 10px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    padding-left: 10%;
+    padding-bottom: 3px;
+}
+
+h1 {
+    padding-left: 10%;
+    font-size: 40px;
+    padding-top: 60px;
+    font-family: 'Roboto Serif', sans-serif;
+}
+
+.subtitle {
+    padding-left:  10%;
+    color: #ff0099;
+}
+
+h2 {
+    font-family: 'Roboto Serif', sans-serif;
+    padding-left: 10%;
+    padding-top: 30px;
+}
+
+h3 {
+    padding: 0 10%;
+    font-weight: 100;
+}
+
+.separator {
+    font-family: 'Roboto Serif', sans-serif;
+    padding: 30px 48%;
+}
+
+#defs {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Roboto Serif', sans-serif;
+    padding-bottom: 30px;
+}
